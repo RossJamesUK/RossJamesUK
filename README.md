@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey, I'm Ross 👋
 
-<!--
-**RossJamesUK/RossJamesUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+After many years of working on projects anonymously, I have decided to make a public profile to hold any cool projects that I make. Some of these will be small while others will be large collaborative projects that I'd love your help with!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏡 Based in the UK
+- 🔭 I’m currently working on a new open source project
+- 🌱 I’m currently learning Italian
+- 💬 Love to talk about SPACE
+- 📫 Email me
+
+### Tech / Programming Languages
+
+- JavaScript ❤
+- Python 🐍
+- React ⚛
+- HTML5 🕸
+- CSS 🎨
+- Node.js 🧩
+
+### Big Projects
+
+- Developed a game between 2018-2022 for the Discord store 🎮
+- Art portfolio shop to sell canvas prints 🎨
+- YouTube channel for shorts 📺
+- Created and documented an API for account management 🧾
+- Build a Discord bot with shards ⚒
